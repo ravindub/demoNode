@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo app for students",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amila viduranga welikala",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.18"
+  }
+}
